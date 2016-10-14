@@ -1,0 +1,2 @@
+/usr/local/lib/libhello.a
+/usr/local/include/print_hello_world.h

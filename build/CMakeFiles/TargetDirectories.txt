@@ -1,0 +1,8 @@
+/Users/Andrey_Kodyk/ClionProjects/lab/build/CMakeFiles/edit_cache.dir
+/Users/Andrey_Kodyk/ClionProjects/lab/build/CMakeFiles/rebuild_cache.dir
+/Users/Andrey_Kodyk/ClionProjects/lab/build/CMakeFiles/list_install_components.dir
+/Users/Andrey_Kodyk/ClionProjects/lab/build/CMakeFiles/install/local.dir
+/Users/Andrey_Kodyk/ClionProjects/lab/build/CMakeFiles/example.dir
+/Users/Andrey_Kodyk/ClionProjects/lab/build/CMakeFiles/install.dir
+/Users/Andrey_Kodyk/ClionProjects/lab/build/CMakeFiles/install/strip.dir
+/Users/Andrey_Kodyk/ClionProjects/lab/build/CMakeFiles/hello.dir
